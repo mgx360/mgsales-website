@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.mgsalesglobal.com/</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Core Pages -->
+  <url>
+    <loc>https://www.mgsalesglobal.com/fresh_apples.html</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mgsalesglobal.com/blueberries.html</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mgsalesglobal.com/mango.html</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mgsalesglobal.com/contact.html</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mgsalesglobal.com/become_a_partner.html</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mgsalesglobal.com/we_hire.html</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mgsalesglobal.com/instagram.html</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog Section -->
+  <url>
+    <loc>https://www.mgsalesglobal.com/blog.html</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mgsalesglobal.com/apple_shelf_life.html</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mgsalesglobal.com/mango_pulp_import.html</loc>
+    <lastmod>2025-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
